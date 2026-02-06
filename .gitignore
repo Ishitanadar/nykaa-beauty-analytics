@@ -1,0 +1,16 @@
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tableau
+*.twbr
+*.hyper
+
+
