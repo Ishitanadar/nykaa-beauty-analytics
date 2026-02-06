@@ -52,7 +52,7 @@ nykaa-beauty-analytics/
 
 ## Dashboard Preview
 
-*(Add screenshots inside the `outputs/` folder and link them here)*
+
 
 ---
 
@@ -72,4 +72,5 @@ This analysis can help:
 **Ishita Nadar**
 SEO Analyst | Aspiring MBA | Data & Business Analytics
 GitHub: [https://github.com/Ishitanadar](https://github.com/Ishitanadar)
+
 
