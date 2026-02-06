@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nykaa Beauty Analytics 📊💄
 
 ## Overview
@@ -171,6 +170,7 @@ This analysis can help:
 **Ishita Nadar**
 SEO Analyst | Aspiring MBA | Data & Business Analytics
 GitHub: [https://github.com/Ishitanadar](https://github.com/Ishitanadar)
+
 
 
 >>>>>>> 9945ce5cea3d029ed5c2a137f94ac026b7b2075d
