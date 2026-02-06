@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Nykaa’s beauty e-commerce performance using data analytics and visualization techniques.
+This project analyses Nykaa’s beauty e-commerce performance using data analytics and visualization techniques.
 The goal is to derive **business insights** around sales, profitability, customer behavior, and product performance to support strategic decision-making.
 
 ---
@@ -10,7 +10,7 @@ The goal is to derive **business insights** around sales, profitability, custome
 ## Objectives
 
 * Understand overall **sales and profit trends**
-* Analyze **category-wise and product-wise performance**
+* Analyse **category-wise and product-wise performance**
 * Identify **high-value customers and purchasing patterns**
 * Evaluate **profit margins and order behavior**
 * Build an **interactive Tableau dashboard** for stakeholders
@@ -60,7 +60,7 @@ nykaa-beauty-analytics/
 
 This analysis can help:
 
-* Optimize **product assortment**
+* Optimise **product assortment**
 * Improve **pricing and discount strategies**
 * Identify **high-value customer segments**
 * Support **marketing and inventory decisions**
@@ -72,3 +72,4 @@ This analysis can help:
 **Ishita Nadar**
 SEO Analyst | Aspiring MBA | Data & Business Analytics
 GitHub: [https://github.com/Ishitanadar](https://github.com/Ishitanadar)
+
